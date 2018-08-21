@@ -27,7 +27,7 @@ Finally there is the unit price for that sale and the discount that applies.
 
 
 
-##Steps of Inferential Data Analysis
+## Steps of Inferential Data Analysis
 
 ##Step 1: `Determine if that sample or population data`.
  It's obviously a sample not the population of sales given we have just three years of data. We 
