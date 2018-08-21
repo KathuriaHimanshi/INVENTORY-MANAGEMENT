@@ -20,7 +20,7 @@ This is a more significant problem for the company as it means the company has i
 One way to solve this problem is by using confidence intervals.
 
 ## Data Description
-Database with the sales information about Al Bundy shop for the years from 2014 to 2016.
+Database with the `sales information` about Al Bundy shop for the years from `2014 to 2016`.
 `There's Invoice Number, Date, country, product ID, and shop, which depends on the country the sell, gender indicates if the product is designed for men or women as shoes differ greatly depending on gender. Next we have shoe size.`
 Apart from the US size system I have also included the European and the UK ones so it is easier for you to understand the data.
 Finally there is the unit price for that sale and the discount that applies.
@@ -29,12 +29,12 @@ Finally there is the unit price for that sale and the discount that applies.
 
 ## Steps of Inferential Data Analysis
 
-##Step 1: `Determine if that sample or population data`.
+## Step 1: `Determine if that sample or population data`.
  It's obviously a sample not the population of sales given we have just three years of data. We 
 
-##Step 2: Get to know the data set better.
+## Step 2: Get to know the data set better.
 
-There are two big subgroups in our data men's shoes and women’s shoes. They are different and bundling them when making predictions will yield deceiving results as not only the feet differ by gender but also there are different shoe types and models.
+There are two big `subgroups in our data men's shoes and women’s shoes`. They are different and bundling them when making predictions will yield deceiving results as not only the feet differ by gender but also there are different shoe types and models.
 
 Our problem is related to `inventory management`
 Therefore we should divide our inventory and then count the frequencies the frequencies will give us a better idea of the data 
