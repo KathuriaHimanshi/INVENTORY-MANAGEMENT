@@ -11,7 +11,7 @@ The firm sells mid to high end shoes ranging from 120 to 200 dollars while the s
 You have lots of inventory never sold.
 The shoes collect dust on store shelves.
 Inventory management is a common problem.
-# Many if not most shops cannot determine the right number of items they need to keep in stock.
+### Many if not most shops cannot determine the right number of items they need to keep in stock.
 The opposite problem arises too.
 Shops don't supply an adequate amount of goods and fail to meet the demand in their market.
 For instance you have surely entered a shoe shop but could not buy a specific pair of shoes because they did not have them in stock.
