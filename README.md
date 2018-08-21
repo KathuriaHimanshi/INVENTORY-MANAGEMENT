@@ -29,7 +29,7 @@ Finally there is the unit price for that sale and the discount that applies.
 
 ## Steps of Inferential Data Analysis
 
-## Step 1: `Determine if that sample or population data`.
+## Step 1: Determine if that sample or population data.
  It's obviously a sample not the population of sales given we have just three years of data. We 
 
 ## Step 2: Get to know the data set better.
@@ -47,10 +47,10 @@ We can simply apply our good old friend the central limit theorem when we are in
 We can assume normality in our case we are calculating average sales for a period.
 Given that Al Bundy shop has been operating for over 30 years silty applies and we can safely continue with our inference.
 
-##Step 3: Determine the exact problem
+## Step 3: Determine the exact problem
 Problem: `We want to estimate the number of shoes that are likely to be sold`.
 
-##Step 4: Decide the confidence Level – 
+## Step 4: Decide the confidence Level – 
 Let Confidence Level = 0.05  
 This will give the range of number of shoe pairs required with 95% confidence.
 
@@ -59,7 +59,7 @@ We have the last 12 months of sales and make a prediction.
 We are only doing this only for men's shoes as the main problem is identical for both genders.
 Since, people have different shoe sizes we will have to calculate 17 confidence intervals one for each size.
 
-##Step 5: Calculate the Confidence Interval 
+## Step 5: Calculate the Confidence Interval 
 Note: The Calculations are done in the Excel sheet attached
 5.1	Calculate the means.
 5.2	Compute the standard errors 
