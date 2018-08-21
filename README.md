@@ -1,9 +1,9 @@
 # INVENTORY-MANAGEMENT
-##Inferential-statistical Analysis
+## Inferential-statistical Analysis
 
-##Al Bundy's shoe shop. – INVENTORY MANAGEMENT
+## Al Bundy's shoe shop. – INVENTORY MANAGEMENT
 
-##Problem Statement (Taken From Udemy Course)
+## Problem Statement (Taken From Udemy Course)
 
 Al Bundy is a U.S. based company established 30 years ago.
 It also operates in Canada the U.K. and Germany.
@@ -11,7 +11,7 @@ The firm sells mid to high end shoes ranging from 120 to 200 dollars while the s
 You have lots of inventory never sold.
 The shoes collect dust on store shelves.
 Inventory management is a common problem.
-Many if not most shops cannot determine the right number of items they need to keep in stock.
+# Many if not most shops cannot determine the right number of items they need to keep in stock.
 The opposite problem arises too.
 Shops don't supply an adequate amount of goods and fail to meet the demand in their market.
 For instance you have surely entered a shoe shop but could not buy a specific pair of shoes because they did not have them in stock.
@@ -19,7 +19,7 @@ In this example we will examine the opposite problem. Problem of having too much
 This is a more significant problem for the company as it means the company has invested in producing or purchasing the product but could not sell it.
 One way to solve this problem is by using confidence intervals.
 
-##Data Description
+## Data Description
 Database with the sales information about Al Bundy shop for the years from 2014 to 2016.
 There's Invoice Number, Date, country, product ID, and shop, which depends on the country the sell, gender indicates if the product is designed for men or women as shoes differ greatly depending on gender. Next we have shoe size.
 Apart from the US size system I have also included the European and the UK ones so it is easier for you to understand the data.
